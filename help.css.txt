@@ -1,0 +1,5 @@
+.help_banner
+{
+right: -115px !important;
+backgroud-color: red !important;
+}
